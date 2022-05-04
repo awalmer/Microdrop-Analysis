@@ -7,8 +7,3 @@ One aim of Microdrop Analysis is to see how long it takes for a given sample sol
 The R script for the application is app.R, and the required supplmental script of functions sourced by the application is functions.R.
 
 The original application is intended for usage by Eli Lilly scientists and is hosted on Eli Lilly's server. An open source version of this application can be found here: https://awalmer.shinyapps.io/microdrop_analysis/. Note: This version is hosted on shinyapps.io and has a 25 Active Hour limit per month.
-
-## Features of the Application:
-Parsed Data: Transforms the input data file into a cleaned table.
-Pivot by Sample, Pivot by Buffer: Tranforms the input data file into multiple pivoted tables, showing values of interest by Sample, and by Buffer (respectively).
-Onset Heat Table: 
