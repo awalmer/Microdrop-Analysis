@@ -1,4 +1,4 @@
-# Microdrop-Analysis
+# Microdrop Analysis
 
 The Microdrop Analysis Tool is an R Shiny application that I developed at Eli Lilly & Company. The Microdrop assay is an experimental method that helps to reveal certain characteristics about antibodies, such as solution solubility. The app facilitates Microdrop analysis by automating the process of result capture, as well as providing visualizations for the user. It includes parsed and pivoted data, a heat table, curve fit plots sample and buffer, as well as individual buffer-sample combination plots, downloadable Excel and PDF reports, and methodology documentation. 
 
